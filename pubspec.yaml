@@ -1,5 +1,10 @@
 name: angular2_material
-description: Google material design components for Angular 2
+description: >
+  DEPRECATED: Google's official AngularDart Material Design Components are now
+  published as `angular_components`.
+version: 2.0.0-beta.11
+homepage: https://github.com/dart-lang/angular_components
+author: Dart Team <misc@dartlang.org>
 environment:
   sdk: '>=1.10.0 <2.0.0'
 dependencies:
@@ -9,16 +14,3 @@ dev_dependencies:
   guinness2: 0.0.4
 transformers:
   - angular2/transform/codegen
-version: 2.0.0-beta.10
-homepage: 'https://github.com/angular/angular'
-authors:
-  - 'Alex Eagle <alexeagle@google.com>'
-  - 'Chirayu Krishnappa <chirayu@google.com>'
-  - 'Jeff Cross <crossj@google.com>'
-  - 'Matias Niemela <matsko@google.com>'
-  - 'Misko Hevery <misko@google.com>'
-  - 'Rado Kirov <radokirov@google.com>'
-  - 'Tobias Bosch <tbosch@google.com>'
-  - 'Victor Savkin <vsavkin@google.com>'
-  - 'Yegor Jbanov <yjbanov@google.com>'
-  - 'Jeremy Elbourn <jelbourn@google.com>'
