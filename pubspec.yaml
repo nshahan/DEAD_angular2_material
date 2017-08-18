@@ -3,7 +3,7 @@ description: >
   DEPRECATED: Google's official AngularDart Material Design Components are now
   published as `angular_components`.
 version: 2.0.0-beta.11
-homepage: https://github.com/dart-lang/angular_components
+homepage: https://webdev.dartlang.org/components
 author: Dart Team <misc@dartlang.org>
 environment:
   sdk: '>=1.10.0 <2.0.0'
